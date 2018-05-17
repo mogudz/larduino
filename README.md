@@ -11,5 +11,5 @@
   ![image](https://www.baidu.com/img/bd_logo1.png?where=super)
  <a href="https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-17441495625.55.32dc5eabMrxtCt&id=568921308211">测量型 WIFI+GPRS/GSM  PLC modbus监控,
  传感器数据采集查看记录和控制<</a>
-  ![image](https://www.baidu.com/img/bd_logo1.png?where=super)
+  ![image](https://github.com/mogudz/tempfile/raw/master/TB27qSypGSWBuNjSsrbXXa0mVXa_!!41886626.jpg)
  <a href="https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-17441495625.55.c7b45eablld4hj&id=569147110676">WIFI插座，远程控制带传感器陈测量和自动控制</a>
